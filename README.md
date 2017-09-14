@@ -1,1 +1,3 @@
-# lab1SO
+# Laboratorio 1 Sistemas Operativos
+Felipe Chacón 
+Yeison Fernández
