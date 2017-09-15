@@ -206,6 +206,10 @@ vprintfmt(void (*putch)(int, void*), void *putdat, const char *fmt, va_list ap)
 		// (unsigned) octal
 		case 'o':
 			//Aqui escribir el codigo de octales
+			putch('X', putdat);
+			putch('X', putdat);
+			putch('X', putdat);
+			break;
 
 		// pointer
 		case 'p':
